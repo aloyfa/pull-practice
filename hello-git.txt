@@ -1,3 +1,4 @@
 Hello Git!
 
 Im making a change again x2
+Adding a new line this is part of the 3rd commit
